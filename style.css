@@ -108,7 +108,7 @@ body{
 .contactInfo a{
         display: flex;
         width: 35px;
-        font-size: 18px;
+        font-size: 15px;
         color: #d8a48f;
 }
 
@@ -223,7 +223,7 @@ p{
     .container {
         grid-template-columns: 1fr; 
         grid-template-rows: auto;
-        background-color: #fff; /* Add a semi-transparent background to .container */
+        background-color: #fff; 
         position: center absolute;
         top: 0;
         left: 0;
@@ -239,6 +239,7 @@ p{
         padding: 0%;
    }
 
+        
 .about .box .year_company h5{
         font-size: 10px;
         padding-left: 12px;
