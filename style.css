@@ -239,6 +239,12 @@ p{
         padding: 0%;
    }
 
+.about .box .year_company h5{
+        font-size: 10px;
+        padding-left: 12px;
+        position: center;
+        justify-content: space-between;
+}
     .about .box .text h5 ul li{
             font-size: 14px;
             padding: 14px;
