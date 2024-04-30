@@ -203,12 +203,6 @@ p{
 }
 
 
-
-
-
-
-
-
 .container .right_Side{
         position: relative;
         padding: 40px;
@@ -218,7 +212,6 @@ p{
 
 
 @media (max-width: 600px) {
-
 
     .container {
         grid-template-columns: 1fr; 
